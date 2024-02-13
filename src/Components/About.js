@@ -5,7 +5,7 @@ const About = () => {
     <div className="about-section-container">
       <div className="video-background">
         <video autoPlay loop muted>
-            <source src="/About/AboutUs.mp4" type="video/mp4" />
+            <source src="" type="video/mp4" />
             Your browser does not support the video tag.
         </video>
     </div>
